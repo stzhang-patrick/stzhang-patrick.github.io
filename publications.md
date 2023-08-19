@@ -14,7 +14,11 @@ Lastest Update: 13rd Aug 2023
 
 - [BATGPT: A Bidirectional Autoregressive Talker from Generative Pre-trained Transformer](https://arxiv.org/pdf/2307.00360.pdf)<br>Zuchao Li, **Shitou Zhang**, Hai Zhao, Yifei Yang, Dongjie Yang.
 
-- [Enhancing Ancient Chinese Understanding with Derived Noisy Syntax Trees](https://aclanthology.org/2023.acl-srw.15.pdf)<br>**Shitou Zhang**, Ping Wang, Zuchao Li, Jingrui Hou. <br>Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop).<br>
+- [Enhancing Ancient Chinese Understanding with Derived Noisy Syntax Trees](https://aclanthology.org/2023.acl-srw.15.pdf)<br>**Shitou Zhang**, Ping Wang, Zuchao Li, Jingrui Hou. <br>Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop).
+
+<br>
+
+---
 
 ## Manuscripts
 
