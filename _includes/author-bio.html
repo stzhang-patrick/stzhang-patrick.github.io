@@ -1,4 +1,4 @@
-<img src="{{ site.url }}/images/{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo" width="100" height="100"></a>
+<img src="{{ site.url }}/images/{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo" width="150" height="150"></a>
 
 <!-- <h4>{{ site.owner.name }}</h4> -->
 
@@ -22,6 +22,8 @@
 {% if site.owner.tumblr %}<p style="text-indent:0;"><a href="https://{{ site.owner.tumblr }}.tumblr.com"><i class="icon-tumblr"></i> Tumblr</a></p>{% endif %}
 
 {% if site.owner.scholar%}<p style="text-indent:0;"><a href="{{ site.owner.scholar}}"><i class="ai ai-google-scholar-square"></i> Google Scholar</a></p>{% endif %}
+
+{% if site.owner.zhihu%}<p style="text-indent:0;"><a href="https://www.zhihu.com/people/{{ site.owner.zhihu}}"><i class="ai ai-google-scholar-square"></i> Zhihu</a></p>{% endif %}
 
 <!-- {% if site.owner.Bilibili %}<p style="text-indent:0;"><a href="https://bilibili.com/{{ site.owner.bilibili }}"><i class="icon-bilibili"></i> Bilibili</a></p>{% endif %} -->
 
