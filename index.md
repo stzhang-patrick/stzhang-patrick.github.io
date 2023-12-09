@@ -57,7 +57,8 @@ My research interest is centered around the scaling of LLMs. The fundamental int
 ---
 
 ## News and Updates
-- **Nov 2023：** ArcMMLU paper is available on [arXiv](https://arxiv.org/abs/2311.18658), check out the [introduction video](https://www.bilibili.com/video/BV1MG411v7tJ) produced by PaperWeekly.
+- **Dec 2023：** One paper is accepted by IPM.
+- **Nov 2023：** ArcMMLU paper is available on [arXiv](https://arxiv.org/abs/2311.18658), check out the [introduction video](https://www.bilibili.com/video/BV1MG411v7tJ) made by PaperWeekly.
 - **Nov 2023：** Our ArcMMLU dataset is open-sourced, available on [Github](https://github.com/stzhang-patrick/ArcMMLU) and [HuggingFace](https://huggingface.co/datasets/patrickshitou/ArcMMLU)
 - **Nov 2023：** Our [Archives Meet GPT] paper is accepted by iConference 2024.
 - **Oct 2023：** Our LingoWhale-8B is open-sourced, available on [Github](https://github.com/DeepLangAI/LingoWhale-8B) and [HuggingFace](https://huggingface.co/deeplang-ai/LingoWhale-8B)
