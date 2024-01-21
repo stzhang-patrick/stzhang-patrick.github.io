@@ -19,7 +19,7 @@ Here is **Shitou Zhang (Patrick, 张石头)**.
 
 <!-- I am a research assistant at Wuhan University. I received my BSc. Degree from School of Information Management, Wuhan University and my MSc. Degree from Department of Information Engineering, the Chinese University of Hong Kong. I am a member of the Key Laboratory of Smart Archives (Wuhan) under the leadership of [Prof. Ping Wang](https://sim.whu.edu.cn/info/1571/85472.htm). Additionally, I'm fortunate to receive guidance from [Dr. Zuchao Li](https://zcli-charlie.github.io/) and [Prof. John K. Zao](https://www.ie.cuhk.edu.hk/faculty/zao-kar-kin-john/). -->
 
-I am a passionate research intern at [DeepLang](https://deeplang.ai/), where I focus on LLM pretraining. I also work on domain-specific LLM development as a member of the Key Laboratory of Archival Intelligent Development and Service, NAAC. I am privileged to work under the guidance of  [Prof. John K. Zao](https://www.ie.cuhk.edu.hk/faculty/zao-kar-kin-john/), [Dr. Zuchao Li](https://zcli-charlie.github.io/), and [Prof. Ping Wang](https://sim.whu.edu.cn/info/1571/85472.htm). My recent projects involve investigating the scaling law of decoder-only MoE models and exploring multi-task generalization through PEFT.
+I am a research intern at [DeepLang](https://deeplang.ai/), where I focus on LLM pretraining. I also work on domain-specific LLM development as a member of the Key Laboratory of Archival Intelligent Development and Service, NAAC. I am privileged to work under the guidance of  [Prof. John K. Zao](https://www.ie.cuhk.edu.hk/faculty/zao-kar-kin-john/), [Dr. Zuchao Li](https://zcli-charlie.github.io/), and [Prof. Ping Wang](https://sim.whu.edu.cn/info/1571/85472.htm). My recent projects involve investigating the potential of MoE models and exploring efficient multimodal pretraining on low-resource modalities.
 
 <br>
 
@@ -49,7 +49,7 @@ I am a passionate research intern at [DeepLang](https://deeplang.ai/), where I f
 <!-- My research interest centers around **modularization** and **micro-servitization** of large-scale AI systems, where various utilities can be achieved through decomposing and recomposing of modules. By encapsulating real-world information, knowledge, expertise, and experience into neural-based dense representations and sub-networks, backbone model and use-case-specific properties can be decoupled, facilitating more use-case-centric and computation-efficient solutions through the synergy of modules. Such architectural design enhances compatibility with distributed learning, providing augmented security essential for high-staking applications, such as neuroscience-driven human-AI interactions. -->
 
 
-My research interest is centered around the scaling of LLMs. The fundamental intelligence of LLMs is obtained from the pretraining stage, where exponential scaling leads to a linear reduction in test loss, as revealed by the scaling law. This has spurred my interest in exploring efficient scaling methods, such as MoE and model merging. Additionally, I am captivated by the concept of multimodal pretraining, which can be viewed as scaling across various modal dimensions.
+My research interest is centered around the scaling of foundation models. The fundamental intelligence of LLMs is obtained from the pretraining stage, where exponential scaling leads to a linear reduction in test loss, as revealed by the scaling law. This has spurred my interest in exploring efficient scaling methods, including model architecture (MoE) and training stretegy (Cross Modal Generalization).
 
 
 <br>
