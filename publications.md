@@ -10,11 +10,11 @@ Lastest Update: 9th Dec 2023
 
 ---
 
-- Confidence-based Syntax Encoding Network for Better Ancient Chinese Understanding<br>**Shitou Zhang**, Ping Wang, Zuchao Li, Jingrui Hou, Qibiao Hu.<br>Accepted by Information Processing & Management (IPM), to appear.
+- [Confidence-based Syntax Encoding Network for Better Ancient Chinese Understanding](https://www.sciencedirect.com/science/article/abs/pii/S0306457323003539)<br>**Shitou Zhang**, Ping Wang, Zuchao Li, Jingrui Hou, Qibiao Hu.<br>Information Processing & Management, 61(3), 103616 (2024).
 
 - [ArcMMLU: A Library and Information Science Benchmark for Large Language Models](https://arxiv.org/pdf/2311.18658.pdf)<br>**Shitou Zhang**, Zuchao Li, Xingshen Liu, Liming Yang, Ping Wang.
 
-- Archives Meet GPT: A Pilot Study on Enhancing Archival Workflows with Large Language Models<br>**Shitou Zhang**, Siyuan Peng, Ping Wang, Jingrui Hou.<br>Accepted by [iConference 2024](https://www.ischools.org/iconference), to appear.
+- [Archives Meet GPT: A Pilot Study on Enhancing Archival Workflows with Large Language Models](https://www.ideals.illinois.edu/items/129992)<br>**Shitou Zhang**, Siyuan Peng, Ping Wang, Jingrui Hou.<br>iConference 2024 Proceedings (2024).
 
 - [ArcGPT: A Large Language Model Tailored for Real-world Archival Applications](https://arxiv.org/pdf/2307.14852.pdf)<br>**Shitou Zhang**, Jingrui Hou, Siyuan Peng, Zuchao Li, Qibiao Hu, Ping Wang.
 
